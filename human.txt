@@ -1,5 +1,0 @@
-face features:
-1. have two eyes
-2. one nose
-3. two ears
-4. one mouth
