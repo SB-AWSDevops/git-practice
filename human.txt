@@ -3,3 +3,4 @@ face features:
 2. one nose
 3. two ears
 4. one mouth
+5. one head
